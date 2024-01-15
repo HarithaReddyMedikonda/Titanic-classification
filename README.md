@@ -139,19 +139,6 @@ Using this as an example, you may describe how to set up your project locally. F
 
 You must have Python installed on your machine in order to use this project. Python may be downloaded from [this page](https://www.python.org/downloads/) if you don't already have it installed.
 
-### Installation 📋
-
-1. Clone the repository to your local machine
-```
-git clone https://github.com/Ruban2205/titanic-classification.git
-```
-
-2. Change directory into the repository
-```
-cd titanic-classification
-```
-
-3. Explore the notebooks in the repository using a Jupyter Notebook or JupyterLab environment. You can launch the environment by running the following command:
 ```
 jupyter notebook
 ```
