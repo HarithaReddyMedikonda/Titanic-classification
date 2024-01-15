@@ -10,70 +10,8 @@
 [![Twitter][twitter-shield]][twitter-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Ruban2205/titanic-classification.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ruban2205/titanic-classification/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ruban2205/titanic-classification.svg?style=for-the-badge
-[forks-url]: https://github.com/Ruban2205/titanic-classification/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ruban2205/titanic-classification.svg?style=for-the-badge
-[stars-url]: https://github.com/Ruban2205/titanic-classification/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ruban2205/titanic-classification.svg?style=for-the-badge
-[issues-url]: https://github.com/Ruban2205/titanic-classification/issues
-[license-shield]: https://img.shields.io/github/license/Ruban2205/titanic-classification.svg?style=for-the-badge
-[license-url]: https://github.com/Ruban2205/titanic-classification/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ruban-gino-singh
-[twitter-shield]: https://img.shields.io/badge/X.com%20(Twitter)%20-black.svg?style=for-the-badge&logo=X&colorB=555
-[twitter-url]: https://x.com/Rubangino
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/Ruban2205/titanic-classification/">
-    <img src="assets/titanic.jpg" alt="Logo" width="160" height="80">
-  </a>
-
-  <h3 align="center">Titanic Survival Prediction | Titanic Classification</h3>
-
-  <p align="center">
-    A prediction of a passenger's survival in the Titanic based on various features such as age, gender, class, and more. 
-    <br />
-    <a href="https://github.com/Ruban2205/titanic-classification/blob/main/notebook/titanic_classifier_main.ipynb"><strong>Explore the project »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Ruban2205/titanic-classification/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Ruban2205/titanic-classification/issues">Request Feature</a>
-  </p>
-</div>
-
-<p align="center"> Welcome to the Titanic Classification project repository! This project aims to predict whether a passenger on the Titanic survived or not based on various features such as age, gender, class, and more. It serves as a classic introductory machine learning project for those interested in data science and predictive modeling. </p>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project-">About The Project</a>
-      <ul>
-        <li><a href="#project-workflow-">Project Workflow</a></li>
-        <li><a href="#built-with-%EF%B8%8F">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started-">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites-">Prerequisites</a></li>
-        <li><a href="#installation-">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage-">Usage</a></li>
-    <li><a href="#contributing-">Contributing</a></li>
-    <li><a href="#license-">License</a></li>
-    <li><a href="#acknowledgements-">Acknowledgments</a></li>
-    <li><a href="#contact-%EF%B8%8F">Contact</a></li>
-  </ol>
-</details>
 
 <!-- About the project-->
 ## About the Project 💻
