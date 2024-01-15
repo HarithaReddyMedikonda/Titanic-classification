@@ -1,5 +1,3 @@
-<!-- To Bring back the link to the top--> 
-<a name="readme-top"></a>
 
 # 🚢 Titanic Classification 
 
